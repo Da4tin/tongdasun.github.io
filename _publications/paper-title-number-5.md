@@ -1,6 +1,12 @@
 ---
-title: "Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data
+title: "Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data"
 category: Journals
 permalink: /publication/2025-11-5-Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data
+excerpt: 'Remaining useful life (RUL) prediction is a critical topic for rolling bearings as it provides essential scheduling information for their predictive maintenance. Although data-driven approaches have been extensively developed for this purpose, they often rely on abundant training samples and are typically restricted to frameworks of one-step RUL prediction or iterative multistep prediction. Moreover, the inference process behind their decisions usually lacks transparency, making it difficult to interpret. To address these challenges, this paper introduces a trustworthy multistep-ahead RUL prediction method in the condition of limited data, where multistep prediction is achieved simultaneously to avoid error accumulation. Specifically, a robust health indicator (HI) is first constructed by a tailored dynamic-inner canonical correlation analysis algorithm, which can efficiently capture the dynamic information hidden in the sequential degradation process and explicitly maximize the predictability of the constructed HI. Subsequently, linearized spatiotemporal transformation equations (STEs) with a nonlinear mapping function are formulated through the embedding theory, transforming the complicated multistep-ahead prediction tasks into a trustworthy STE-solving process. Hereinto, the nonlinear mapping is implemented through a reservoir computing scheme that can be efficiently tuned with limited data, ensuring the solvability of STEs. To demonstrate the superiority of the proposed method, comparative analyses with state-of-the-art HI construction and RUL prediction methods are conducted across three engineering cases. Additionally, comprehensive adaptability and interpretability analyses are provided to validate its robustness and trustworthiness in multistep-ahead prediction.'
+date: 2025-11-5
+venue: 'Volume 267, Part B'
+slidesurl: 'https://da4tin.github.io/tongdasun.github.io/files/slides5.pdf'
+paperurl: 'https://da4tin.github.io/tongdasun.github.io/files/paper5.pdf'
+citation: 'Yin, C., Sun, T., Wu, H., & Dong, Y. (2025). Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data. Reliability Engineering & System Safety, 111902.'
 ---
 
