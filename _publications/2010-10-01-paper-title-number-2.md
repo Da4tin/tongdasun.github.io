@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: "/publication/2023-7-14-AI‐enabled metal‐polymer plain bearing based on the triboelectric principle"
 excerpt: 'With the rapid rise of the Internet of Things and artificial intelligence (AI), demand for advanced sensing technologies in smart bearings has grown significantly. Conventional bearing sensors, limited to basic temperature or vibration data, cannot meet the needs of self-diagnosis and self-maintenance. Recently, self-powered sensing based on triboelectric nanogenerators has opened new possibilities. In this study, the triboelectric principle is applied to a commercial metal–polymer plain bearing (MPPB), enabling self-sensing, self-diagnosis, and self-maintenance. The triboelectric MPPB (T-MPPB) is structurally optimized to balance output efficiency and load capacity, with durability and performance experimentally verified. For the first time, the mechanism of output variation under boundary and hydrostatic lubrication is revealed. A deep learning algorithm further classifies lubrication states with high accuracy, allowing the T-MPPB to achieve self-maintenance through adaptive lubrication control. This work demonstrates the feasibility of self-powered smart bearings and establishes a pathway for intelligent lubrication state identification, advancing autonomous diagnosis and maintenance.'
-date: 2021-10-28
-venue: 'Journal 9'
+date: 2023-7-14
+venue: 'Volume 33'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
