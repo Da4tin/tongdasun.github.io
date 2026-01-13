@@ -38,7 +38,7 @@ The **Boldface&Upright text** indicates me.
 
 💻 Work Experience
 ======
-* 09.2023 - present, Research Associate, Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
+* 09.2023 - present, Research Assistant, Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
   
 👨‍🏫 Teaching
 ======
