@@ -2,7 +2,7 @@
 title: "AI‐enabled metal‐polymer plain bearing based on the triboelectric principle"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-7-14-AI‐enabled metal‐polymer plain bearing based on the triboelectric principle
+permalink: "/publication/2023-7-14-AI‐enabled metal‐polymer plain bearing based on the triboelectric principle"
 excerpt: ""
 date: 2023-7-14
 venue: 'Volume 33'
