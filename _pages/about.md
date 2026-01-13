@@ -11,13 +11,13 @@ I'm a final year Ph.D. student from [Department of Data Science, College of Comp
 
 Prior to studying at CityUHK, I was supervised by Prof. Gang Yu and received the M.Eng. degree from the [School of Robotics and Advanced Manufacture](http://sram.hitsz.edu.cn/xygk/xyld.htm), [Harbin Institute of Technology at Shenzhen (HIT)](https://www.hitsz.edu.cn), Shenzhen, China, in 2022. Earlier, I received the B.Eng. degree from the [College of Mechanical and Vehicle Engineering](https://mve.cqu.edu.cn), [Chongqing University (CQU)](https://www.cqu.edu.cn), Chongqing, China, in 2019.
 
-Research Interests
+:scroll: Research Interests
 ======
 * Machine Fault Diagnosis & Prognosis
 * Multivariate Time Series Modeling
 * Industrial Model Generalization
 
-Selected Papers
+:bookmark_tabs: Selected Papers
 ======
 More papers are shown on my [Google Scholar](https://scholar.google.com/citations?user=XESpkBgAAAAJ&hl=zh-CN&oi=sra).
 The **Boldface&Upright text** indicates me.
@@ -29,7 +29,7 @@ The **Boldface&Upright text** indicates me.
   * Yin, C., **Sun, T.**, Wu, H., & Dong, Y. (2025). Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data. Reliability Engineering & System Safety, 111902.
   * Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
 
-Educations
+🎓 Educations
 ======
 * 09.2022 - present, Ph.D., Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 * 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
