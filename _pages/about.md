@@ -22,12 +22,13 @@ Prior to studying at CityUHK, I was supervised by Prof. Gang Yu and received the
 More papers are shown on my [Google Scholar](https://scholar.google.com/citations?user=XESpkBgAAAAJ&hl=zh-CN&oi=sra).
 The **Boldface&Upright text** indicates me.
 
-* **Peer Reviewed**
-  * **Sun, T.**, Dong, Y., Yang, W., & Yu, G. (2025). A Novel Clustering-Guided Framework for Rotating Machinery Fault Diagnosis With Extremely Limited Labeled Data. _**IEEE Transactions on Industrial Informatics**_.
-  * **Sun, T.**, Yin, C., Zheng, H., & Dong, Y. (2025). An unsupervised framework for dynamic health indicator construction and its application in rolling bearing prognostics. _**Reliability Engineering & System Safety**_, 260, 111039.
-  * **Sun, T.**, Yu, G., Gao, M., Zhao, L., Bai, C., & Yang, W. (2021). Fault diagnosis methods based on machine learning and its applications for wind turbines: A review. Ieee Access, 9, 147481-147511.
-  * Yin, C., **Sun, T.**, Wu, H., & Dong, Y. (2025). Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data. Reliability Engineering & System Safety, 111902.
-  * Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
+**Peer Reviewed**
+
+* **Sun, T.**, Dong, Y., Yang, W., & Yu, G. (2025). A Novel Clustering-Guided Framework for Rotating Machinery Fault Diagnosis With Extremely Limited Labeled Data. _**IEEE Transactions on Industrial Informatics**_.
+* **Sun, T.**, Yin, C., Zheng, H., & Dong, Y. (2025). An unsupervised framework for dynamic health indicator construction and its application in rolling bearing prognostics. _**Reliability Engineering & System Safety**_, 260, 111039.
+* **Sun, T.**, Yu, G., Gao, M., Zhao, L., Bai, C., & Yang, W. (2021). Fault diagnosis methods based on machine learning and its applications for wind turbines: A review. Ieee Access, 9, 147481-147511.
+* Yin, C., **Sun, T.**, Wu, H., & Dong, Y. (2025). Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data. Reliability Engineering & System Safety, 111902.
+* Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
 
 🎓 Educations
 ======
@@ -37,7 +38,7 @@ The **Boldface&Upright text** indicates me.
 
 💻 Work Experience
 ======
-* 09.2023 - present, Research Associate, Department of Data Science, College of Computing, City University of Hong Kong, Mainland China
+* 09.2023 - present, Research Associate, Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
   
 👨‍🏫 Teaching
 ======
