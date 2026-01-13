@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 4"
+title: "A Novel Clustering-Guided Framework for Rotating Machinery Fault Diagnosis With Extremely Limited Labeled Data"
 collection: publications
-category: conferences
+category: Journals
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
