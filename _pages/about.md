@@ -7,56 +7,49 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm a final year Phd student from [Department of Data Science, College of Computing](https://www.ds.cityu.edu.hk), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk), under the supervison of [Prof. Yining Dong](https://www.cityu.edu.hk/stfprofile/Yining.Dong.htm). Currently, my research interest includes Machine Fault Diagnosis & Prognosis, Multivariate Time Series Modeling, and Industrial Model Generalization. 
+I'm a final year Ph.D. student from [Department of Data Science, College of Computing](https://www.ds.cityu.edu.hk), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk), under the supervison of [Prof. Yining Dong](https://www.cityu.edu.hk/stfprofile/Yining.Dong.htm). Currently, my research interest includes Machine Fault Diagnosis & Prognosis, Multivariate Time Series Modeling, and Industrial Model Generalization. 
 
-Prior to studying at CityUHK, I was supervised by Prof. Gang Yu and received the M.Eng. degree from the [School of Robotics and Advanced Manufacture](http://sram.hitsz.edu.cn/xygk/xyld.htm), [Harbin Institute of Technology at Shenzhen (HIT)](https://www.hitsz.edu.cn), Shenzhen, China, in 2022. Earlier, I received the B.Eng. degree from the [College of Mechanical and Vehicle Engineering](https://mve.cqu.edu.cn), [Chongqing university (CQU)](https://www.cqu.edu.cn), Chongqing, China, in 2019.
+Prior to studying at CityUHK, I was supervised by Prof. Gang Yu and received the M.Eng. degree from the [School of Robotics and Advanced Manufacture](http://sram.hitsz.edu.cn/xygk/xyld.htm), [Harbin Institute of Technology at Shenzhen (HIT)](https://www.hitsz.edu.cn), Shenzhen, China, in 2022. Earlier, I received the B.Eng. degree from the [College of Mechanical and Vehicle Engineering](https://mve.cqu.edu.cn), [Chongqing University (CQU)](https://www.cqu.edu.cn), Chongqing, China, in 2019.
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Machine Fault Diagnosis & Prognosis
+* Multivariate Time Series Modeling
+* Industrial Model Generalization
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Selected Papers
+======
+More papers are shown on my [Google Scholar](https://scholar.google.com/citations?user=XESpkBgAAAAJ&hl=zh-CN&oi=sra).
+The **Boldface&Upright text** indicates me.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Peer Reviewed**
+  * **Sun, T.**, Dong, Y., Yang, W., & Yu, G. (2025). A Novel Clustering-Guided Framework for Rotating Machinery Fault Diagnosis With Extremely Limited Labeled Data. _**IEEE Transactions on Industrial Informatics**_.
+  * **Sun, T.**, Yin, C., Zheng, H., & Dong, Y. (2025). An unsupervised framework for dynamic health indicator construction and its application in rolling bearing prognostics. _**Reliability Engineering & System Safety**_, 260, 111039.
+  * **Sun, T.**, Yu, G., Gao, M., Zhao, L., Bai, C., & Yang, W. (2021). Fault diagnosis methods based on machine learning and its applications for wind turbines: A review. Ieee Access, 9, 147481-147511.
+  * Yin, C., **Sun, T.**, Wu, H., & Dong, Y. (2025). Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data. Reliability Engineering & System Safety, 111902.
+  * Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
 
-Publications
+Educations
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 09.2022 - present, Ph.D., Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
+* 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
+* 09.2015 - 06.2019, B.Eng., College of Mechanical and Vehicle Engineering, Chongqing University, Mainland China
+
+Work Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 09.2023 - present, Research Associate, Department of Data Science, College of Computing, City University of Hong Kong, Mainland China
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 2024/25 Semester B, Teaching Assistant, SDSC6015 Stochastic Optimization for Machine Learning, CityUHK.
+* 2024/25 Semester A, Teaching Assistant, SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
+* 2023/24 Semester B, Teaching Assistant, SDSC8015 & SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
+* 2023/24 Semester A, Teaching Assistant, SDSC3008 Systems Dynamics and Control, CityUHK.
+
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2022 **Postgraduate Studentship**, University Grand Committee, Hong Kong.
+* 2019 **The First Prize Postgraduate Scholarship**, Harbin Institute of Technology at Shenzhen, China.
+  
 
 
