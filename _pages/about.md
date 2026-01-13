@@ -11,7 +11,7 @@ I'm a final year Ph.D. student from [Department of Data Science, College of Comp
 
 Prior to studying at CityUHK, I was supervised by Prof. Gang Yu and received the M.Eng. degree from the [School of Robotics and Advanced Manufacture](http://sram.hitsz.edu.cn/xygk/xyld.htm), [Harbin Institute of Technology at Shenzhen (HIT)](https://www.hitsz.edu.cn), Shenzhen, China, in 2022. Earlier, I received the B.Eng. degree from the [College of Mechanical and Vehicle Engineering](https://mve.cqu.edu.cn), [Chongqing University (CQU)](https://www.cqu.edu.cn), Chongqing, China, in 2019.
 
-:scroll: Research Interests
+:dizzy: Research Interests
 ======
 * Machine Fault Diagnosis & Prognosis
 * Multivariate Time Series Modeling
@@ -35,18 +35,18 @@ The **Boldface&Upright text** indicates me.
 * 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
 * 09.2015 - 06.2019, B.Eng., College of Mechanical and Vehicle Engineering, Chongqing University, Mainland China
 
-Work Experience
+💻 Work Experience
 ======
 * 09.2023 - present, Research Associate, Department of Data Science, College of Computing, City University of Hong Kong, Mainland China
   
-Teaching
+👨‍🏫 Teaching
 ======
 * 2024/25 Semester B, Teaching Assistant, SDSC6015 Stochastic Optimization for Machine Learning, CityUHK.
 * 2024/25 Semester A, Teaching Assistant, SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
 * 2023/24 Semester B, Teaching Assistant, SDSC8015 & SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
 * 2023/24 Semester A, Teaching Assistant, SDSC3008 Systems Dynamics and Control, CityUHK.
 
-Honors and Awards
+🎖 Honors and Awards
 ======
 * 2022 **Postgraduate Studentship**, University Grand Committee, Hong Kong.
 * 2019 **The First Prize Postgraduate Scholarship**, Harbin Institute of Technology at Shenzhen, China.
