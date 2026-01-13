@@ -3,7 +3,7 @@ title: "AI‐enabled metal‐polymer plain bearing based on the triboelectric pr
 collection: publications
 category: manuscripts
 permalink: /publication/2023-7-14-AI‐enabled metal‐polymer plain bearing based on the triboelectric principle
-excerpt: "With the rapid rise of the Internet of Things and artificial intelligence (AI), demand for advanced sensing technologies in smart bearings has grown significantly. Conventional bearing sensors, limited to basic temperature or vibration data, cannot meet the needs of self-diagnosis and self-maintenance. Recently, self-powered sensing based on triboelectric nanogenerators has opened new possibilities."
+excerpt: ""
 date: 2023-7-14
 venue: 'Volume 33'
 slidesurl:'https://github.com/Da4tin/tongdasun.github.io/files/slides2.pdf'
