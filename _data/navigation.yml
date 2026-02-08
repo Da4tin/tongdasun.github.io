@@ -15,13 +15,13 @@ main:
     url: /about#educations
 
   - title: "Teaching"
-    url: /about/#teaching 
+    url: /about#teaching 
     
   - title: "Work Experience"
-    url: /about/(#work)
+    url: /about#work
         
   - title: "Honors and Awards"
-    url: /about/#honors
+    url: /about#honors
     
   - title: "CV"
     url: /cv/
