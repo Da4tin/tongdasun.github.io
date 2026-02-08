@@ -12,16 +12,16 @@ main:
     url: /publications/
 
   - title: "Educations"
-    url: /about/#educations
+    url: /#educations
 
   - title: "Teaching"
-    url: /about/#teaching 
+    url: /#teaching 
     
   - title: "Work Experience"
-    url: /about/#work
+    url: /#work
         
   - title: "Honors and Awards"
-    url: /about/#honors
+    url: /#honors
     
   - title: "CV"
     url: /cv/
