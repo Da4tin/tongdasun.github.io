@@ -32,7 +32,7 @@ The **Boldface&Upright text** indicates me.
 * Yin, C., **Sun, T.**, Wu, H., & Dong, Y. (2025). Trustworthy multistep-ahead remaining useful life prediction for rolling bearings with limited data. Reliability Engineering & System Safety, 111902.
 * Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
 
-<a id="educations"></a>
+<a name="educations"></a>
 
 🎓 Educations
 ======
@@ -40,13 +40,13 @@ The **Boldface&Upright text** indicates me.
 * 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
 * 09.2015 - 06.2019, B.Eng., College of Mechanical and Vehicle Engineering, Chongqing University, Mainland China
 
-<a id="work"></a>
+<a name="work"></a>
 
 💻 Work Experience
 ======
 * 09.2023 - present, Research Assistant, Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 
-<a id="teaching"></a>
+<a name="teaching"></a>
 
 👨‍🏫 Teaching
 ======
@@ -55,7 +55,7 @@ The **Boldface&Upright text** indicates me.
 * 2023/24 Semester B, Teaching Assistant, SDSC8015 & SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
 * 2023/24 Semester A, Teaching Assistant, SDSC3008 Systems Dynamics and Control, CityUHK.
 
-<a id="honors"></a>
+<a name="honors"></a>
 
 🎖 Honors and Awards
 ======
