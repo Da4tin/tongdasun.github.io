@@ -30,17 +30,22 @@ Fields
   
 Skills
 ======
-* ** Programming Language: **Python, R, C/C++
+* **Programming Language:** Python, R, C/C++
 
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+* 2024/25 Semester B, Teaching Assistant, SDSC6015 Stochastic Optimization for Machine Learning, CityUHK.
+* 2024/25 Semester A, Teaching Assistant, SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
+* 2023/24 Semester B, Teaching Assistant, SDSC8015 & SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
+* 2023/24 Semester A, Teaching Assistant, SDSC3008 Systems Dynamics and Control, CityUHK.
+  
+  <!--<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
