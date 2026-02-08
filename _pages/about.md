@@ -4,8 +4,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - <style> html { scroll-behavior: smooth; } </style>
 ---
-<style> html { scroll-behavior: smooth; } </style>
+
 {% include base_path %}
 
 I'm a final year Ph.D. student from [Department of Data Science, College of Computing](https://www.ds.cityu.edu.hk), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk), under the supervison of [Prof. Yining Dong](https://www.cityu.edu.hk/stfprofile/Yining.Dong.htm).
