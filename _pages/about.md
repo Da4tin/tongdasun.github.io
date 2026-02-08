@@ -16,7 +16,7 @@ Prior to studying at CityUHK, I was supervised by Prof. Gang Yu and received the
 * Machine Fault Diagnosis & Prognosis
 * Few-Shot Learning
 * Multivariate Time Series Modeling
-* Industrial Intelligent Model Generalization
+* Industrial LLM
 
 :bookmark_tabs: Selected Papers
 ======
