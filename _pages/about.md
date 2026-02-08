@@ -38,7 +38,7 @@ The **Boldface&Upright text** indicates me.
 ======
 
 * 09.2022 - present, Ph.D., Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
-* 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
+* 09.2019 - 01.2022, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
 * 09.2015 - 06.2019, B.Eng., College of Mechanical and Vehicle Engineering, Chongqing University, Mainland China
 
 <a id="work"></a>
