@@ -32,19 +32,22 @@ The **Boldface&Upright text** indicates me.
 * Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
 
 <a id="educations"></a>
-🎓 Educations
+
+## 🎓 Educations
 ======
 * 09.2022 - present, Ph.D., Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 * 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
 * 09.2015 - 06.2019, B.Eng., College of Mechanical and Vehicle Engineering, Chongqing University, Mainland China
 
 <a id="work"></a>
-💻 Work Experience
+
+## 💻 Work Experience
 ======
 * 09.2023 - present, Research Assistant, Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 
 <a id="teaching"></a>
-👨‍🏫 Teaching
+
+## 👨‍🏫 Teaching
 ======
 * 2024/25 Semester B, Teaching Assistant, SDSC6015 Stochastic Optimization for Machine Learning, CityUHK.
 * 2024/25 Semester A, Teaching Assistant, SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
@@ -52,7 +55,8 @@ The **Boldface&Upright text** indicates me.
 * 2023/24 Semester A, Teaching Assistant, SDSC3008 Systems Dynamics and Control, CityUHK.
 
 <a id="honors"></a>
-🎖 Honors and Awards
+
+## 🎖 Honors and Awards
 ======
 * 2022 **Postgraduate Studentship**, University Grand Committee, Hong Kong.
 * 2019 **The First Prize Postgraduate Scholarship**, Harbin Institute of Technology at Shenzhen, China.
