@@ -18,7 +18,7 @@ main:
     url: /about/#teaching 
     
   - title: "Work Experience"
-    url: /about/#work
+    url: /about/(#work)
         
   - title: "Honors and Awards"
     url: /about/#honors
