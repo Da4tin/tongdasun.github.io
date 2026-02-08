@@ -33,7 +33,7 @@ The **Boldface&Upright text** indicates me.
 
 <a id="educations"></a>
 
-## 🎓 Educations
+🎓 Educations
 ======
 * 09.2022 - present, Ph.D., Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 * 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
