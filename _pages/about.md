@@ -33,7 +33,9 @@ The **Boldface&Upright text** indicates me.
 * Gao, M., **Sun, T.**, Li, Y., Zhang, Z., Lee, C., & Choi, J. (2023). AI‐enabled metal‐polymer plain bearing based on the triboelectric principle. Advanced Functional Materials, 33(48), 2304070.
 
 <a id="educations"></a>
-## 🎓 Educations
+
+🎓 Educations
+======
 
 * 09.2022 - present, Ph.D., Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 * 09.2019 - 12.2021, M.Eng., School of Robotics and Advanced Manufacture, Harbin Institute of Technology at Shenzhen, Mainland China
