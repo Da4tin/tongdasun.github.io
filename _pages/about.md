@@ -1,3 +1,4 @@
+<style> html { scroll-behavior: smooth; } </style>
 ---
 permalink: /
 author_profile: true
