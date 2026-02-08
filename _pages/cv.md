@@ -45,7 +45,9 @@ Teaching
 * 2023/24 Semester B, Teaching Assistant, SDSC8015 & SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
 * 2023/24 Semester A, Teaching Assistant, SDSC3008 Systems Dynamics and Control, CityUHK.
   
-  <!--<ul>{% for post in site.teaching reversed %}
+  <!--
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
+  {% endfor %}</ul>
+  -->
   
