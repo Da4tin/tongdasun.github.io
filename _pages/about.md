@@ -41,13 +41,13 @@ The **Boldface&Upright text** indicates me.
 
 <a id="work"></a>
 
-## 💻 Work Experience
+💻 Work Experience
 ======
 * 09.2023 - present, Research Assistant, Department of Data Science, College of Computing, City University of Hong Kong, Hong Kong
 
 <a id="teaching"></a>
 
-## 👨‍🏫 Teaching
+👨‍🏫 Teaching
 ======
 * 2024/25 Semester B, Teaching Assistant, SDSC6015 Stochastic Optimization for Machine Learning, CityUHK.
 * 2024/25 Semester A, Teaching Assistant, SDSC6012 Time Series & Recurrent Neural Nets, CityUHK.
@@ -56,7 +56,7 @@ The **Boldface&Upright text** indicates me.
 
 <a id="honors"></a>
 
-## 🎖 Honors and Awards
+🎖 Honors and Awards
 ======
 * 2022 **Postgraduate Studentship**, University Grand Committee, Hong Kong.
 * 2019 **The First Prize Postgraduate Scholarship**, Harbin Institute of Technology at Shenzhen, China.
