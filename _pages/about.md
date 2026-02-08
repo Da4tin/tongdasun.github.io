@@ -4,7 +4,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - <style> html { scroll-behavior: smooth; } </style>
 ---
 
 {% include base_path %}
